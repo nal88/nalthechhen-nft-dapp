@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xFd1eE0bA71305ccD751D203f6916882fc10883f5",
+  "SCAN_LINK": "https://polygonscan.com/address/0xfd1ee0ba71305ccd751d203f6916882fc10883f5",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "NAlTheChhen",
+  "SYMBOL": "Sonal",
+  "MAX_SUPPLY": 205,
+  "WEI_COST": 3000000000000000,
+  "DISPLAY_COST": 0.003,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nalthechhen-childhood",
+  "SHOW_BACKGROUND": true
+}
